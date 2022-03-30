@@ -1,0 +1,6 @@
+{
+	"extends": [
+		"marine/node",
+		"marine/prettier"
+	]
+}
